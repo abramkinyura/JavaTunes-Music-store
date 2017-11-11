@@ -1,1 +1,1 @@
-# JavaTunes-Music-store
+# JavaTunes-Music-store-JDBC
